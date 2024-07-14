@@ -5,20 +5,3 @@ obj/
 # Ignore solution and project files
 *.sln
 *.csproj
-
-# Ignore other common files
-*.user
-*.rsuser
-*.suo
-*.userosscache
-*.sln.docstates
-*.exe
-*.dll
-*.pdb
-*.log
-*.vspscc
-.vscode/
-.vs/
-*.cache
-*.config
-*.ide
