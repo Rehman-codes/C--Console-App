@@ -2,25 +2,23 @@
 bin/
 obj/
 
-# Ignore user-specific files
+# Ignore solution and project files
+*.sln
+*.csproj
+
+# Ignore other common files
 *.user
 *.rsuser
 *.suo
 *.userosscache
 *.sln.docstates
-
-# Ignore build output
 *.exe
 *.dll
 *.pdb
-
-# Ignore project files
 *.log
 *.vspscc
 .vscode/
 .vs/
-
-# Ignore other files
 *.cache
 *.config
 *.ide
